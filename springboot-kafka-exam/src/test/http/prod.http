@@ -1,0 +1,7 @@
+### 토픽전송
+POST http://localhost:8080/kafka
+Content-Type: application/json
+
+{
+  "message": "hello"
+}
